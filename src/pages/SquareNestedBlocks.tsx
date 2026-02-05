@@ -6,6 +6,7 @@ export function SquareNestedBlocks() {
     return (
         <Box display='flex' flexDirection='row'>
             <Box flex="100%">
+                Andy here
                 <Typography variant='h3' component="h1">
                     Coding Challenge: Recursive Square Bracket Collapsing
                 </Typography>
